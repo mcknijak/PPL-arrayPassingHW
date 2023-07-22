@@ -1,0 +1,73 @@
+------------------------------------------Running test #1-------------------------------------------
+
+Testing to see if the Pass by Value method is in fact much slower for characters:
+Pass by value function called using an array/vector of Characters
+Wall clock time to pass by value: 521.354 ms 
+Pass by reference function called using an array/vector of Characters
+Wall clock time to pass by reference: 0.00025 ms 
+-----------------------------------------------------------------------
+Testing to see if the Pass by Value method is in fact much slower for integers:
+Pass by value function called using an array/vector of Integers
+Wall clock time to pass by value: 2064.99 ms 
+Pass by reference function called using an array/vector of Integers
+Wall clock time to pass by reference: 0.000303 ms 
+
+
+------------------------------------------Running test #2-------------------------------------------
+
+Testing to see if the Pass by Value method is in fact much slower for characters:
+Pass by value function called using an array/vector of Characters
+Wall clock time to pass by value: 528.69 ms 
+Pass by reference function called using an array/vector of Characters
+Wall clock time to pass by reference: 0.000211 ms 
+-----------------------------------------------------------------------
+Testing to see if the Pass by Value method is in fact much slower for integers:
+Pass by value function called using an array/vector of Integers
+Wall clock time to pass by value: 2053.51 ms 
+Pass by reference function called using an array/vector of Integers
+Wall clock time to pass by reference: 0.000385 ms 
+
+
+------------------------------------------Running test #3-------------------------------------------
+
+Testing to see if the Pass by Value method is in fact much slower for characters:
+Pass by value function called using an array/vector of Characters
+Wall clock time to pass by value: 523.167 ms 
+Pass by reference function called using an array/vector of Characters
+Wall clock time to pass by reference: 0.000231 ms 
+-----------------------------------------------------------------------
+Testing to see if the Pass by Value method is in fact much slower for integers:
+Pass by value function called using an array/vector of Integers
+Wall clock time to pass by value: 2058.13 ms 
+Pass by reference function called using an array/vector of Integers
+Wall clock time to pass by reference: 0.000315 ms 
+
+
+------------------------------------------Running test #4-------------------------------------------
+
+Testing to see if the Pass by Value method is in fact much slower for characters:
+Pass by value function called using an array/vector of Characters
+Wall clock time to pass by value: 522.284 ms 
+Pass by reference function called using an array/vector of Characters
+Wall clock time to pass by reference: 0.000447 ms 
+-----------------------------------------------------------------------
+Testing to see if the Pass by Value method is in fact much slower for integers:
+Pass by value function called using an array/vector of Integers
+Wall clock time to pass by value: 2062.22 ms 
+Pass by reference function called using an array/vector of Integers
+Wall clock time to pass by reference: 0.000192 ms 
+
+
+------------------------------------------Running test #5-------------------------------------------
+
+Testing to see if the Pass by Value method is in fact much slower for characters:
+Pass by value function called using an array/vector of Characters
+Wall clock time to pass by value: 519.188 ms 
+Pass by reference function called using an array/vector of Characters
+Wall clock time to pass by reference: 0.000556 ms 
+-----------------------------------------------------------------------
+Testing to see if the Pass by Value method is in fact much slower for integers:
+Pass by value function called using an array/vector of Integers
+Wall clock time to pass by value: 2051.27 ms 
+Pass by reference function called using an array/vector of Integers
+Wall clock time to pass by reference: 0.000349 ms 
